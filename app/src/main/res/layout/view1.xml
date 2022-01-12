@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:padding="5dp">
+
+
+    <LinearLayout
+        android:layout_width="410dp"
+        android:layout_height="262dp"
+        android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/tv10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:layout_weight="1"
+                    android:text="10th Marks"
+                    android:textColor="#FDD835"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/tv12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:layout_weight="1"
+                    android:text="12th Marks"
+                    android:textColor="#FDD835"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/tvgrad"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:layout_weight="1"
+                    android:text="Graduation Marks"
+                    android:textColor="#FDD835"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/tvjoin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:layout_weight="1"
+                    android:text="Joining Date"
+                    android:textColor="#FDD835"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:id="@+id/tvseat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:layout_weight="1"
+                    android:text="Seat Number"
+                    android:textColor="#FDD835"
+                    android:textSize="24sp" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+

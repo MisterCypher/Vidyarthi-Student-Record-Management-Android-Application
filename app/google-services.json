@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679600867213",
+    "project_id": "vidyarthi-dc644",
+    "storage_bucket": "vidyarthi-dc644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679600867213:android:a7cbf6bab758612beddfc4",
+        "android_client_info": {
+          "package_name": "com.example.vidyarthi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679600867213-84erv6opns4mbv1aopfbqqhoa4hepg52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7b0KjPhSXLBLfM_TRiPa659rf-7_E6AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679600867213-84erv6opns4mbv1aopfbqqhoa4hepg52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
